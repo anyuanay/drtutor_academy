@@ -3,6 +3,7 @@
 1. Download and install Visual Studio Code: https://code.visualstudio.com/
 2. Be able to use command-line terminals
 3. Be able to run basic unix/linux commands: https://www.unixtutorial.org/basic-unix-commands
+4. Use Jupyter notebooks in Colab: https://colab.research.google.com/
 ## Source Management:
 1. Create an account in Github: https://github.com/
 2. Be able to run the basic git commands from a terminal: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
